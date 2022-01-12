@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![HelloThereHeyGIF](https://user-images.githubusercontent.com/84438200/149096827-4711b866-1c42-49cf-80ed-de01ad2d0b63.gif)
 
 
@@ -15,7 +12,7 @@ You can connect with me through-
 - Email - aditya.chache@gmail.com
 
 
-Extras-
+Resources-
 - [API LIST](https://apilist.fun/) is a website which lists a number of apis which you can use for your projects.
 
 <!--
