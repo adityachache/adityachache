@@ -2,7 +2,6 @@
 
 
 
-## I'm Aditya Chache
 **I'm currently in Final Year of my *Computer Engineering* Bachelor's degree.**
 
 - I'm interested in learning Data Science and Full Stack Web Development
