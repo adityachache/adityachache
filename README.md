@@ -7,6 +7,9 @@
 - I'm interested in learning Data Science and Full Stack Web Development
 - Currently I'm Learning Advanced Python3(api's, web-scraping, flask, etc) 
 
+Socials-
+- [LinkedIn](https://www.linkedin.com/in/aditya-chache-2647091a7/) 
+- [Medium](https://medium.com/@aditya.chache)
 
 Resources-
 - [API LIST](https://apilist.fun/) is a website which lists a number of apis which you can use for your projects.
