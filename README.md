@@ -4,8 +4,8 @@
 
 **I'm currently in Final Year of my *Computer Engineering* Bachelor's degree.**
 
-- I'm interested in learning Data Science and Full Stack Web Development
-- Currently I'm Learning Advanced Python3(api's, web-scraping, flask, etc) 
+- I'm interested in learning Full Stack Web Development
+- Currently I'm learning Node.js  
 
 Socials-
 - [LinkedIn](https://www.linkedin.com/in/aditya-chache-2647091a7/) 
