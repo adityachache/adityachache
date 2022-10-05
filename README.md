@@ -1,6 +1,8 @@
 
 ![HelloDogedashGIF](https://user-images.githubusercontent.com/84438200/194013303-ac64c4f1-f909-4691-9bff-9213f257790b.gif)
 
+![Profile views](https://gpvc.arturio.dev/[adityachache])
+
 
 **I graduated with a Bachelor's degree in *Computer Engineering* and am planning to purse MS after getting some relevant work experience**
 
