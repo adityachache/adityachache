@@ -4,8 +4,8 @@
 
 **I'm currently in Final Year of my *Computer Engineering* Bachelor's degree.**
 
-- I'm interested in learning Full Stack Web Development
-- Currently I'm learning Node.js  
+- I'm interested in Backend and cloud development
+- Currently I'm working as a software engineer at Jio Platforms Limited
 
 Socials-
 - [LinkedIn](https://www.linkedin.com/in/aditya-chache-2647091a7/) 
