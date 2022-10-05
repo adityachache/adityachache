@@ -2,7 +2,7 @@
 
 
 
-**I'm currently in Final Year of my *Computer Engineering* Bachelor's degree.**
+**I graduated with a Bachelor's degree in *Computer Engineering* and am planning to purse MS after getting some relevant work experience**
 
 - I'm interested in Backend and cloud development
 - Currently I'm working as a software engineer at Jio Platforms Limited
