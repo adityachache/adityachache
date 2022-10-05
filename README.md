@@ -16,6 +16,8 @@ Socials-
 Resources-
 - [API LIST](https://apilist.fun/) is a website which lists a number of apis which you can use for your projects.
 - [PYTHONANYWHERE](https://www.pythonanywhere.com/) is a website where you can host your python scripts to automate them
+- [FreecodeCamp](https://youtu.be/jS4aFq5-91M) lots of different courses you can learn from here
+- [Neetcode](https://neetcode.io/) to practice leetcode problems 
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityachache&show_icons=true&theme=tokyonight)](https://github.com/adityachache/github-readme-stats)
 
