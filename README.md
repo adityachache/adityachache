@@ -4,10 +4,10 @@
 ![Profile views](https://gpvc.arturio.dev/adityachache)
 
 
-**I graduated with a Bachelor's degree in *Computer Engineering* **
+**I graduated with a Bachelor's degree in Computer Engineering**
 
-- I'm interested in Backend and cloud development
-- Currently I'm working as a software engineer at Jio Platforms Limited
+- I'm interested in Backend development
+- Currently I'm working as a frontend software engineer at Jio Platforms Limited
 
 Socials-
 - [LinkedIn](https://www.linkedin.com/in/aditya-chache-2647091a7/) 
