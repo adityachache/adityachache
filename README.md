@@ -6,8 +6,9 @@
 
 **I graduated with a Bachelor's degree in Computer Engineering**
 
-- I'm interested in Backend development
-- Currently I'm working as a frontend software engineer at Jio Platforms Limited
+- I'm interested in Data Engineering and Analytics
+- Previously I worked as a software engineer at Jio Platforms Limited
+- Currently, I'm pursuing my master's degree in business analytics from California State University, East Bay.
 
 Socials-
 - [LinkedIn](https://www.linkedin.com/in/aditya-chache-2647091a7/) 
